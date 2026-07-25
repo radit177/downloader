@@ -106,5 +106,3 @@ MIT — free to use, modify, and distribute
 ---
 
 ⭐ Star this repo if you find it useful!
-
-*"I just give the tools, whether they're used right or not is your business, Boss."*
