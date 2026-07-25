@@ -1,5 +1,0 @@
-Function Params Returns
-tiktokDownloader(url) TikTok URL video HD/SD + audio + metadata
-instagramDownloader(url) Instagram URL image/video download links
-youtubeDownloader(input, format) URL or keyword, 'mp4'/'mp3' MP4 or MP3 download
-facebookDownloader(url) Facebook URL video multiple quality
